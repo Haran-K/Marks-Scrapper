@@ -8,7 +8,7 @@ You need to have the required libraries installed on your machine to run the scr
 You can install the libraries using the command:
 pip install "library-name"
 
-Script also requires you to download the Chrome webdriver, you can download it from : https://sites.google.com/a/chromium.org/chromedriver/downloads
+Script also requires you to download the Chrome webdriver, you can download it Online.
 
 # Steps to configure the Chrome-webdriver in the script:
 1. Install the webdriver and copy the location of the path where the chromedriver was installed.
